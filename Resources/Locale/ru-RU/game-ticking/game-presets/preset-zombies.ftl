@@ -1,4 +1,4 @@
-zombie-title = Зомби
+﻿zombie-title = Zombies
 zombie-description = На станции появился вирус, способный оживлять мертвецов! Совместно с другими членами экипажа сдержите заражение и постарайтесь выжить.
 zombie-not-enough-ready-players = Недостаточно игроков готовы к игре! { $readyPlayersCount } игроков из необходимых { $minimumPlayers } готовы. Нельзя начать Зомби.
 zombie-no-one-ready = Нет готовых игроков! Нельзя начать Зомби.
