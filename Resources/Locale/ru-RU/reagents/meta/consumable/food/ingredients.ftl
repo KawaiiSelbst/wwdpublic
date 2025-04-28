@@ -8,10 +8,8 @@ reagent-name-enzyme = универсальный фермент
 reagent-desc-enzyme = Используется в приготовлении различных блюд.
 reagent-name-egg = приготовленное яйцо
 reagent-desc-egg = Вареный куриный эмбрион. Очень вкусно!
-
 reagent-name-raw-egg = сырое яйцо
 reagent-desc-raw-egg = используется в готовке.
-
 reagent-name-sugar = сахар
 reagent-desc-sugar = Вкусный космический сахар!
 reagent-name-blackpepper = чёрный перец

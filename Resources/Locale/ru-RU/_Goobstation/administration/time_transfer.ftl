@@ -13,11 +13,8 @@ time-transfer-panel-warning-transfer-process = Перенос времени в 
 time-transfer-panel-checkbox-group = Группа
 time-transfer-overall-checkbox = Общее
 time-transfer-panel-search-placeholder = Поиск ролей
-
-
 cmd-timetransferpanel-desc = Открыть меню переноса времени
 admin-player-actions-window-time-transfer = Перенос времени
 time-transfer-panel-no-player-database-message = Игрок не найден в базе данных
-
-# Пожалуйста, измените это, только если вам действительно-действительно нужно это сделать
+# Please change it if you really-really need to do it
 time-transfer-panel-author = Создано BombasterDS для Goobstation

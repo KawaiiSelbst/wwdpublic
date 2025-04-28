@@ -1,1 +1,1 @@
-melee-backstab-damage = Удар в спину: {$damage}!
+melee-backstab-damage = Удар в спину: { $damage }!

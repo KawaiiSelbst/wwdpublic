@@ -1,3 +1,5 @@
+﻿
+
 ## UI
 
 chameleon-component-ui-window-name = Настройки хамелеона

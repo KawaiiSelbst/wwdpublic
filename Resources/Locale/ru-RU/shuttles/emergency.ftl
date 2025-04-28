@@ -31,18 +31,8 @@ emergency-shuttle-docked =
     }. Он улетит через { $time } секунд.
 emergency-shuttle-good-luck = Эвакуационный шаттл не может найти станцию. Удачи.
 emergency-shuttle-nearby = Эвакуационный шаттл не может найти подходящий стыковочный шлюз. Он дрейфует { $direction }.
-emergency_shuttle_meteor_available = Установлена связь с эвакуационным шаттлом. Он может быть вызван.
-emergency_shuttle-announce-toggle =
-    "Внимание! { $admin } { $value ->
-        [True] включил
-        [False] выключил
-       *[other] _
-    } вызов шаттла!"
-emergency_shuttle-call-enable = Включить вызов шаттла
-emergency_shuttle-call-disable = Выключить вызов шаттла
 # Emergency shuttle console popup / announcement
 emergency-shuttle-console-no-early-launches = Досрочный запуск отключён
-# Emergency shuttle console popup / announcement
 emergency-shuttle-console-auth-left =
     { $remaining } { $remaining ->
         [one] авторизация осталась
@@ -58,7 +48,6 @@ emergency-shuttle-console-auth-revoked =
 emergency-shuttle-console-denied = Доступ запрещён
 # UI
 emergency-shuttle-console-window-title = Консоль эвакуационного шаттла
-# UI
 emergency-shuttle-ui-engines = ДВИГАТЕЛИ:
 emergency-shuttle-ui-idle = Простой
 emergency-shuttle-ui-repeal-all = Повторить всё

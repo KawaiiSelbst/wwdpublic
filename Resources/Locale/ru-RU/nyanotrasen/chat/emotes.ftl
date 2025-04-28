@@ -1,18 +1,16 @@
-# Названия
+# Names
 chat-emote-name-cathisses = Шипение
 chat-emote-name-catmeow = Мяукание
 chat-emote-name-catmew = Мявканье
 chat-emote-name-catgrowl = Рычание
 chat-emote-name-catpurr = Мурлыканье
-
-# Сообщения
+# Message
 chat-emote-msg-hisses = шипит!
 chat-emote-msg-meow = мяукает.
 chat-emote-msg-mew = мявкает.
 chat-emote-msg-growl = рычит!
 chat-emote-msg-purr = мурлыкает.
-
-# Триггеры
+# Triggers
 chat-emote-trigger-hisses-1 = шипит
 chat-emote-trigger-meows-1 = мяукает
 chat-emote-trigger-meows-2 = мяускает

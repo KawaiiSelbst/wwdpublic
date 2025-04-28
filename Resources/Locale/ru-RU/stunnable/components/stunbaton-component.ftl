@@ -1,4 +1,4 @@
-### Stunbaton component
+﻿### Stunbaton component
 
 comp-stunbaton-stun = Оглушён
 
@@ -11,5 +11,5 @@ comp-stunbaton-examined-off = Шокер на дубинке [color=darkred]вы
 
 comp-stunbaton-activated-low-charge = Недостаточный заряд...
 stunbaton-component-low-charge = Недостаточный заряд...
-stunbaton-component-on-examine-charge = Индикатор заряда показывает { $charge } %
 stunbaton-component-on-examine = Шокер на дубинке [color=darkgreen]включен[/color].
+stunbaton-component-on-examine-charge = Индикатор заряда показывает { $charge } %

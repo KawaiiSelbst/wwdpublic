@@ -1,5 +1,5 @@
 entity-generator-examine-charges =
-    {$current ->
+    { $current ->
         [one] Внутри лежит [color=cyan]{ $current }[/color] предмет из [color=cyan]{ $max }[/color] возможных.
         [few] Внутри лежит [color=cyan]{ $current }[/color] предмета из [color=cyan]{ $max }[/color] возможных.
        *[other] Внутри лежит [color=cyan]{ $current }[/color] предметов из [color=cyan]{ $max }[/color] возможных.

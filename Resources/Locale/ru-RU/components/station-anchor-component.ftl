@@ -1,2 +1,2 @@
-﻿station-anchor-unanchoring-failed = Невозможно открепить активный станционный якорь
+﻿station-anchor-unanchoring-failed = Can't unanchor an active station anchor
 station-anchor-window-title = Станционный якорь
