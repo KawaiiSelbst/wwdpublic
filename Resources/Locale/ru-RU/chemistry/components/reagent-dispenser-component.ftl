@@ -10,7 +10,6 @@ reagent-dispenser-bound-user-interface-title = Раздатчик реагент
 ## UI
 
 reagent-dispenser-window-amount-to-dispense-label = Кол-во
-reagent-dispenser-window-container-label = Контейнер:
 reagent-dispenser-window-clear-button = Очистить
 reagent-dispenser-window-eject-button = Извлечь
 reagent-dispenser-window-no-container-loaded-text = Контейнер не загружен.
