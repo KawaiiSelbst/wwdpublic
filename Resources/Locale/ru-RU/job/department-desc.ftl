@@ -1,4 +1,4 @@
-﻿department-Cargo-description = Выполняйте запросы, зарабатывайте кредиты и заказывайте полезные вещички для экипажа.
+﻿department-Cargo-description = Complete bounties, earn Spessos, and order useful supplies for the crew.
 department-Civilian-description = Выполняйте мелкие полезные задачки для поддержки станции в хорошем состоянии.
 department-Command-description = Управляйте персоналом станции и помогайте им работать эффективно.
 department-Engineering-description = Поддерживайте электроэнергию и станцию в рабочем состоянии.
