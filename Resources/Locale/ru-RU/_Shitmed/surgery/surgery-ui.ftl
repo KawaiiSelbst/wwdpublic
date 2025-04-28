@@ -11,4 +11,4 @@ surgery-ui-window-steps-error-armor = Вам нужно снять с них б�
 surgery-ui-window-steps-error-tools = Не тот инструмент.
 surgery-error-laying = Сначало уложите его!
 surgery-error-self-surgery = Вы не можете оперировать сами себя!
-surgery-part-damage-evaded = {$user} чудом избежал повреждения!
+surgery-part-damage-evaded = { $user } чудом избежал повреждения!
