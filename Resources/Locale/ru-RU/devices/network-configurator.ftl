@@ -1,4 +1,4 @@
-# Popups
+﻿# Popups
 
 network-configurator-device-saved = Успешно сохранено сетевое устройство { $device } с адресом { $address }!
 network-configurator-device-failed = Не удалось сохранить сетевое устройство { $device }! Адрес не присвоен!
@@ -21,7 +21,6 @@ network-configurator-link = Соединить
 # ui
 network-configurator-title-saved-devices = Сохранённые устройства
 network-configurator-title-device-configuration = Конфигурация устройства
-# ui
 network-configurator-ui-clear-button = Очистить
 network-configurator-ui-count-label =
     { $count } { $count ->
@@ -29,8 +28,6 @@ network-configurator-ui-count-label =
         [few] устройства
        *[other] устройств
     }.
-network-configurator-clear-network-link-overlays = Очистить оверлей сетевых соединений
-network-configurator-clear-network-link-overlays-desc = Очищает оверлей сетевых соединений.
 # tooltips
 network-configurator-tooltip-set = Создание списка целевых устройств
 network-configurator-tooltip-add = Добавление в список целевых устройств
