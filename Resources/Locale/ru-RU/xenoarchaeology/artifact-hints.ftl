@@ -40,6 +40,5 @@ artifact-trigger-hint-regular-gases = Стандартные атмосферн�
 artifact-trigger-hint-plasma = Газовая плазма
 artifact-trigger-hint-land = Активное замедление
 artifact-trigger-hint-examine = Проверка
-
 # Psionic Effects
 artifact-effect-hint-psionic = Нарушение Ионосферы
