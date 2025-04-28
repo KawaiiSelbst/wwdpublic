@@ -8,17 +8,17 @@ examine-encryption-channels-prefix = Доступные частоты:
 examine-encryption-channel = [color={ $color }]{ $key } для { $id } ({ $freq })[/color]
 examine-encryption-default-channel =
     Стандартный канал [color={ $color }]{ $channel ->
-    [Syndicate] Синдикат
-    [Supply] Снабжение
-    [Command] Командование
-    [CentCom] ЦентКом
-    [Common] Общий
-    [Engineering] Инженерный
-    [Science] Научный
-    [Medical] Медицинский
-    [Security] Безопасность
-    [Service] Сервисный
-    [Binary] Бинарный
-    [Freelance] Наемный
-    *[other] _
+        [Syndicate] Синдикат
+        [Supply] Снабжение
+        [Command] Командование
+        [CentCom] ЦентКом
+        [Common] Общий
+        [Engineering] Инженерный
+        [Science] Научный
+        [Medical] Медицинский
+        [Security] Безопасность
+        [Service] Сервисный
+        [Binary] Бинарный
+        [Freelance] Наемный
+       *[other] _
     }[/color].
