@@ -10,26 +10,20 @@ reverse-engineering-machine-stop-button = Остановить
 reverse-engineering-machine-stop-tooltip-info = Останавливает текущее сканирование.
 reverse-engineering-machine-eject-button = Вынуть
 reverse-engineering-machine-eject-tooltip-info = Вытаскивает вставленный предмет.
-
 reverse-engineering-status-ready = Вставьте предмет для обратной инженерии.
-reverse-engineering-current-item = Текущий Предмет: {$item}
-reverse-engineering-analysis-score = Сила сканирования: {$score}
-reverse-engineering-item-difficulty = Сложность: {$difficulty}
-reverse-engineering-progress = Прогресс: {$progress}%
-reverse-engineering-last-attempt-result = Результат предыдущего сканирования: {$result}
-
+reverse-engineering-current-item = Текущий Предмет: { $item }
+reverse-engineering-analysis-score = Сила сканирования: { $score }
+reverse-engineering-item-difficulty = Сложность: { $difficulty }
+reverse-engineering-progress = Прогресс: { $progress }%
+reverse-engineering-last-attempt-result = Результат предыдущего сканирования: { $result }
 reverse-engineering-total-progress-label = Всего
-
 reverse-engineering-failure = КРИТИЧЕСКАЯ ОШИБКА
 reverse-engineering-stagnation = Минимальный прогресс
 reverse-engineering-minor = Слабый прогресс
 reverse-engineering-average = Прогресс
 reverse-engineering-major = Уверенный прогресс
 reverse-engineering-success = Прорывной прогресс
-
 reverse-engineering-machine-bonus-upgrade = Сила аналитики
 reverse-engineering-machine-aversion-upgrade = Бонус к предотвращению разрушения
-
-reverse-engineering-popup-failure = {CAPITALIZE(THE($machine))} взрывается, раскидывая обломки везде!
-
-reverse-engineering-examine = [color=yellow]Данный предмет можно исследовать методом обратной инженерии. Сложность: {$diff}[/color]
+reverse-engineering-popup-failure = { CAPITALIZE(THE($machine)) } взрывается, раскидывая обломки везде!
+reverse-engineering-examine = [color=yellow]Данный предмет можно исследовать методом обратной инженерии. Сложность: { $diff }[/color]
